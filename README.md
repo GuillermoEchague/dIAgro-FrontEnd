@@ -16,11 +16,15 @@ npm start
 ### Firebase
 
 ```bash
-npm i firebase
+yarn add firebase
 yarn add node-sass
 yarn add react-router-dom
-npm i redux
+yarn add redux
 ```
+### Configuración de proyecto
+
+Se debe crear un archivo src/firebase/firebase.utils.js con la configuración entregada por el proyecto creado de firebase.
+
 
 ```bash
 # Axios
